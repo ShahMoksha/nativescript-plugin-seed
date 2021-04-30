@@ -1,0 +1,3 @@
+target 'MyApp' do
+    pod 'KakashiMask', '~> 1.0'
+  end
